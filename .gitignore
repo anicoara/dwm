@@ -1,0 +1,8 @@
+# General file stuff
+*.swp
+dwm
+config.h
+
+# C/C++ source stuff
+*.o
+*.d
